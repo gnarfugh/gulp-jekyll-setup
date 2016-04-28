@@ -7,3 +7,4 @@ Gulp.js setup for Jekyll liquid templating
  - [gulp-concat](https://github.com/contra/gulp-concat)
  - [gulp-uglify](https://github.com/mishoo/UglifyJS)
  - [gulp-cssnano](https://github.com/ben-eb/gulp-cssnano)
+ - [del] (https://github.com/sindresorhus/del)
